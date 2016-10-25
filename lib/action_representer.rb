@@ -1,0 +1,2 @@
+module ActionRepresenter
+end
