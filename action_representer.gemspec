@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = ActionRepresenter::VERSION
   s.authors     = ["284km"]
   s.email       = ["at284km@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of ActionRepresenter."
-  s.description = "TODO: Description of ActionRepresenter."
+  s.homepage    = "https://github.com/284km/action_representer"
+  s.summary     = "Support JSON representation."
+  s.description = "Support JSON representation."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
